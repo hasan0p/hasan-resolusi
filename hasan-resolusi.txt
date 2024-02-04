@@ -1,1 +1,8 @@
-
+HASAN RESOLUSI
+-konsisten belajar fullstack web developer
+-belajar front end dasar html,css,javascript
+-belajar library JQuery
+-belajar framework bootstrap,tailwind dan vue.js 
+-belajar back end dasar php
+-belajar dasar dasar database mysql dan konsep dasar oop pemrograman berorientasi objek
+-belajar back end tingkat lanjut framework codeigniter dan laravel
